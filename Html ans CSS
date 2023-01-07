@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Essential Hotel</title>
+	<style type="text/css">
+		footer {
+			position: absolute;
+			bottom: 0
+		}
+
+		body {
+			background-color: #F25A29;
+			color: #ffffff;
+		}
+
+		h2 {
+			position: absolute;
+			top: 50px;
+			left: 120px;
+			font-style: italic;
+		}
+		
+		#happy {
+			position: relative;
+			text-align: center;
+			background-image: url(https://wc.wallpaperuse.com/wallp/69-695534_s.jpg);
+			background-size: 600px;
+			border-width:3px;
+			border-style: groove;
+			border-radius: 10px
+			
+		}
+		
+		#coktails {
+			position: relative;
+			text-align: center;
+			background-image: url(https://lestrouvaillesdesarah.com/wp-content/uploads/2021/04/AdobeStock_195186798-1440x960.jpeg);
+			background-size: 140px;
+			border-width:3px;
+			border-style: groove;
+			border-radius: 10px
+
+		}
+		#horaires {
+			position: relative;
+			text-align: center;
+			background-image: url(image/images/1.jpg);
+			background-size: 80%;
+			border-width:3px;
+			border-style: groove;
+			border-radius: 10px	
+
+		}
+
+		#raffiné {
+			position: relative;
+			text-align: center;
+			background-image: url(https://www.forbes.fr/wp-content/uploads/2019/07/gettyimages-991732782-740x490.jpg);
+			background-size: 90%;
+			border-width:3px;
+			border-style: groove;
+			border-radius: 10px
+			
+		}
+		section {
+			line-height: 5
+			
+		}
+		button {
+  			background-color: transparent; 
+ 			border: none;
+  			color: white;
+  			padding: 15px 32px;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 40px;
+  			font-family: Brush Script MT, Brush Script Std, cursive
+
+}
+		
+	</style>
+</head>
+<body>
+	<img src="image/images/logo.png" height="130">
+
+
+	</ul>
+	<h2> Des coktails maisons d'une grande qualité </h2>
+	<footer>Copyright 2020/Yohann</footer>
+	<section>
+		<h1 id="happy"><a href="page2.html" style="color: white"><button>Happy Hour</button></a></h1>
+		<h1 id="coktails"><a href="coktails" style="color: white"><button>Coktails</button></a></h1>
+		<h1 id="raffiné"><a href="raffiné" style="color: white"><button>Raffiné</button></a></h1>
+		<h1 id="horaires"><a href="horaires" style="color: white"><button>Informations</button></a></h1>
+	</section>
+
+
+	
+
+
+
+
+
+
+</body>
+</html>
+
+
+#Page 2
+
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Happy hour</title>
+	<style type="text/css">
+		
+		body {
+			background-color: #F25A29;
+			color: #ffffff;
+			font-family: Brush Script MT, Brush Script Std, cursive
+		}
+
+		#happyh {
+			font-family: Brush Script MT, Brush Script Std, cursive;
+			position: relative;
+			text-align: center;
+			background-image: url(https://wc.wallpaperuse.com/wallp/69-695534_s.jpg);
+			background-size: 600px;
+			border-width:3px;
+			border-style: groove;
+			border-radius: 10px
+		}
+		
+		section {
+			font-size: 250%;
+			font-family: Brush Script MT, Brush Script Std, cursive
+		}
+
+	</style>
+</head>
+<body>
+	<h1 id="happyh">Happy Hour</h1>
+	<section>
+		<img src="image/images/sunmoon.png" height="100" <p>Sunmoon – 7€80 – Cocktail grenadine ananas avec une pointe d’orange (sans alcool)</p>
+		<img src="image/images/spicherry.png" height="100" <p>Spicherry – 5€20 – Cocktail Cerise et fruits rouge avec pointe de cassis (sans alcool)</p>
+		<img src="image/images/mentalux.png" height="100" <p>Mentalux – 3€90 – Cocktail Sirop de Menthe et Jus de poire (sans alcool)</p>
+		<img src="image/images/cocowhip.png" height="100" <p>Cocowhip – 9€20 – Cocktail Noix de coco – Lait d’amande et Framboise (sans alcool)</p>
+	</section>
+
+
+</body>
+</html>
